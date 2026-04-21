@@ -91,3 +91,9 @@ Projekt został wykonany w celach edukacyjnych i nie zawiera zaawansowanych mech
 ## Note
 
 This is a student project created for educational purposes and does not include advanced production-level security features.
+
+
+## Example Screenshot
+
+<img width="1208" height="588" alt="image" src="https://github.com/user-attachments/assets/18e8d3ec-2635-42e3-8697-20e001a9e26e" />
+
