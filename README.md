@@ -1,6 +1,6 @@
-## Strona internetowa z newsami (projekt studencki)
+# Strona internetowa z newsami (projekt studencki)
 
-# Projekt responsywnej strony internetowej z newsami, stworzony w ramach przedmiotu Aplikacje internetowe.
+## Projekt responsywnej strony internetowej z newsami, stworzony w ramach przedmiotu Aplikacje internetowe.
 
 ## Technologie
 - HTML5
@@ -28,7 +28,7 @@
 
 ## Opis projektu
 
-# Strona zawiera m.in.:
+## Strona zawiera m.in.:
 
 - główną sekcję newsów
 - sekcję trending
@@ -48,9 +48,9 @@ Projekt został wykonany w celach edukacyjnych i nie zawiera zaawansowanych mech
 
 
 
-## News Website (Student Project)
+# News Website (Student Project)
 
-# This project is a responsive news website created as part of university coursework in Web Applications.
+## This project is a responsive news website created as part of university coursework in Web Applications.
 
 ## Technologies
 - HTML5
