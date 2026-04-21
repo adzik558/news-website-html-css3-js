@@ -2,26 +2,13 @@
 
 # Projekt responsywnej strony internetowej z newsami, stworzony w ramach przedmiotu Aplikacje internetowe.
 
-## Struktura repozytorium
-
-```plaintext
-cicids2017-ml-classification/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── src/
-│   └── clustering-and-classification-attack-types.ipynb
-└── data/
-    └── data
-```
-
 ## Technologie
 - HTML5
 - CSS3 (Bootstrap)
 - JavaScript
 - PHP (backend – podstawy)
 - MySQL (baza danych)
-- 
+
 ## Funkcjonalności
 - responsywny layout (Bootstrap)
 - system nawigacji z kategoriami
@@ -58,3 +45,49 @@ Pełna dokumentacja projektu znajduje się w repozytorium.
 ## Uwagi
 
 Projekt został wykonany w celach edukacyjnych i nie zawiera zaawansowanych mechanizmów bezpieczeństwa stosowanych w środowisku produkcyjnym.
+
+
+
+## News Website (Student Project)
+
+# This project is a responsive news website created as part of university coursework in Web Applications.
+
+## Technologies
+- HTML5
+- CSS3 (Bootstrap)
+- JavaScript
+- PHP (basic backend)
+- MySQL (database)
+
+## Features
+- responsive layout using Bootstrap
+- navigation system with categories
+- news sections and article previews
+- carousel (Owl Carousel) for featured content
+- multiple subpages (categories, contact page)
+- search functionality
+- structured layout with reusable components
+
+## Authentication Extension
+
+# As part of an additional university course (Data Security / Web Development), the project was extended with:
+
+- user login system implemented in PHP
+- integration with MySQL database
+- session-based authentication
+- basic input validation
+
+## Project Overview
+
+# The website includes multiple sections such as:
+
+- main news section
+- trending news
+- latest articles
+- category-based content
+- social media section
+- contact page
+
+## Note
+
+This is a student project created for educational purposes and does not include advanced production-level security features.
